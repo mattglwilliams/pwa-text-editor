@@ -11,7 +11,7 @@
 
 Just another text editor! This is a browser based text editor that can be used offline and also installed as a PWA. The application uses indexdDB, to store data in the clients browser.
 
-You can find the deployed version here -
+You can find the deployed version here - https://matt-pwa-text-editor.herokuapp.com/
 
 ## Installation
 
